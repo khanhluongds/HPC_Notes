@@ -1,0 +1,7 @@
+# Run on hpc
+1. Locate to the folder containing the code
+2. Create .sh file such as example.sh
+3. dos2unix example.sh
+4. sh example.sh
+
+More on hpc and putty here: https://usermanual.wiki/Document/hpcguide.1304623016/view
